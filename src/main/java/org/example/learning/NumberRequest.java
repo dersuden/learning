@@ -8,5 +8,6 @@ public class NumberRequest {
     public void setNumber(String number) {
         this.number = number;
     }
+
     private String number;
 }
